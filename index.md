@@ -2,122 +2,108 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# O Nas
 
-[Link to another page](./another-page.html).
+Jesteśmy młodym kołem, którego ideą jest zebranie interesujących ludzi a następnie stworzenie z nimi coś wspaniałego. Naszym celem jest tworzenie gier na produkcje którch składają się programiści, graficy, muzycy, scenarzyści, game desinerzy oraz menadżerowie. Umożliwiamy rozwój każdemu w wszelakich dziedinach kunsztu. U nas spotkach osoby podomne sobie z którymi będziesz mógł stworzyć swoją wymarzoną grę.
 
-There should be whitespace between paragraphs.
+# Wyznajemy wartości
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- ### Ambicja i Zaangażowanie
+  Są głównym motorem napędowym gwarantującym sukces
+- ### Szacunek
+  Szanujemy czas, zdanie i pracę innych członków, aby stworzyć przyjazne miejsce dla rozwoju.
+- ### Samorozwój
+  Wewnętrzna chęć poszerzania wiedzy i dzielenia się nią z innymi pozwala na tworzenie wysokiej jakości projektów.
+- ### Otwartość i Odwaga
+  Stawiamy sobie jasne cele, otwarcie rozmawiamy o problemach i odważnie proponujemy nowe rozwiązania.
 
-# Header 1
+# Nasze Aktualne Projekty
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## AMS
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## HASTAR
 
-### Header 3
+Opis + zdjęcia
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## ARCHIMEDES
 
-#### Header 4
+Opis + zdjęcia
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## EMPEROR
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Opis + zdjęcia
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## RACING CAR
 
-### There's a horizontal rule below this.
+Opis + zdjęcia
 
-* * *
+---
 
-### Here is an unordered list:
+# SZUKAMY
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- #### Programistów
 
-### And an ordered list:
+- #### Grafików
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- #### Scenarzystów
 
-### And a nested list:
+- #### Game Designerów
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+- #### Social Managerów
 
-### Small image
+[Link do ankiety](https://docs.google.com/forms/d/e/1FAIpQLSea84KKPaQeEUNiI3IWRyXT8eW7Ypyq_sDhoNr2_jZoYqg2kw/closedform).
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# Eventy
 
-### Large image
+- ### hackathon
+- ### Code Along
+- ### Warsztaty
+- ### wyjazdy Integracyjne
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Zarząd
 
+- ### Maciej Pieniążek
 
-### Definition lists can be used with HTML syntax.
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- ### Patryk Lesiak
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
 
-```
-The final element.
-```
+- ### Adrian Markowski
+
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
+
+- ### Jakub Ocytko
+
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
+
+- ### Anotoni Zieciak
+
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
+
+- ### Tomasz Makowski
+
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
+
+- ### Wojciech Neuman
+  ![Zdjęcie](https://guides.github.com/activities/hello-world/branching.png)
+  Opis Roli
+
+# Regulamin
+
+...
