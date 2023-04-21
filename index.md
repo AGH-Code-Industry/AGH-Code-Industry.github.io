@@ -174,6 +174,4 @@ Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wy
 
   <img src="images/WojciechNeuman.jpeg"  width="400" height="400">
 
-  Okno na świat koła. Zajmuje się promowanie i rozpowszechnieniem koła 2 social mediach.
-
-...
+  Okno na świat koła. Zajmuje się promowanie i rozpowszechnieniem koła w social mediach.
