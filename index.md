@@ -6,7 +6,7 @@ layout: default
 
 ![Zdjęcie](/images/zarzad.jpg)
 
-Jesteśmy młodym kołem, którego ideą jest zebranie interesujących ludzi a następnie stworzenie z nimi coś wspaniałego. Naszym celem jest tworzenie gier na produkcje którch składają się programiści, graficy, muzycy, game desinerzy oraz menadżerowie. Umożliwiamy rozwój każdemu w wszelakich dziedinach kunsztu. U nas spotkach osoby podomne sobie z którymi będziesz mógł stworzyć swoją wymarzoną grę.
+Jesteśmy młodym kołem, którego ideą jest zebranie interesujących ludzi a następnie stworzenie z nimi coś wspaniałego. Naszym celem jest produkcja gier w których angażują się programiści, graficy, muzycy, game desinerzy oraz menadżerowie. Umożliwiamy rozwój każdemu w wszelakich dziedinach kunsztu. U nas spotkasz osoby podobne sobie z którymi będziesz mógł stworzyć swoją wymarzoną grę.
 
 # Wyznajemy wartości
 
@@ -26,7 +26,7 @@ Jesteśmy młodym kołem, którego ideą jest zebranie interesujących ludzi a n
 ![Zdjęcie](/images/ams.png)
 ![Zdjęcie](/images/ams2.png)
 
-Dawno temu odbyła sie koniunkcja sfer która przelała całą swą magię do naszego świata. Parę tysięcy lat później ludzie opanowi wykorzystywać tą tajemniczą siłe do własnych celów. nasz bohater uczi się na jednej z renomowanej uczeli magii zwanej AGH która okazuję się, że posiada w swoich dawnych kryptach potężny artefakt zdolny usunąć magie z świata. Nasz bohater uczy się coraz no nowych zakleć i próbuje odnaleźć artefakt oraz go zniszczyć zanim wykorzysta go niepowołana osoba.
+Dawno temu odbyła sie koniunkcja sfer która przelała całą swą magię do naszego świata. Parę tysięcy lat później ludzie opanowali tą tajemniczą siłe do własnych celów. Nasz bohater uczi się na jednej z renomowanych uczeli magii zwanej AGH która okazuję się, że posiada w swoich dawnych kryptach potężny artefakt zdolny usunąć magie z świata. Nasz bohater uczy się coraz no nowych zakleć i próbuje odnaleźć artefakt oraz go zniszczyć zanim wykorzysta go niepowołana osoba.
 
 ---
 
@@ -35,7 +35,7 @@ Dawno temu odbyła sie koniunkcja sfer która przelała całą swą magię do na
 ![Zdjęcie](/images/hastar.png)
 ![Zdjęcie](/images/hastar2.jpg)
 
-Budzisz się w świeceie opanowanym przez sztuczną inteligencje. Z niewidomych powodów jako jedyny nie jesteś pod panowaniem AI. Zostałeś ostatnioą nadzieją ludzkości. Korzystając z swojego M4A4 niszczysz cały wykreowany przez AI świat równocześnie uwalniajac ludzkość z jej kajdan.
+Budzisz się w świeceie opanowanym przez sztuczną inteligencje. Z niewidomych powodów jako jedyny nie jesteś pod panowaniem AI. Zostałeś ostatnią nadzieją ludzkości. Korzystając z swojego M4A4 niszczysz cały wykreowany przez AI świat równocześnie uwalniajac ludzkość z jej kajdan.
 
 ---
 
@@ -61,7 +61,7 @@ Jest to świat inspirowany dziełami Tolkiena w którym smoki oraz napady orków
 ![Zdjęcie](/images/racingCart.png)
 ![Zdjęcie](/images/racingCart2.png)
 
-Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wykorzystać przyczepność opon oraz nitro płynące w rurach auta. celem graczas jest pokonianie wybranej trasy w jak najkrótszym czasie.
+Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wykorzystać przyczepność opon oraz nitro płynące w rurach auta. celem gracza jest pokonianie wybranej trasy w jak najkrótszym czasie.
 
 # SZUKAMY
 
@@ -100,7 +100,7 @@ Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wy
 
 # Eventy
 
-- ## hackathon
+- ## Hackathon
 
   Całedobowe kodzenie gier to nie jest problem dla naszych członków. U nas możesz zebrać własny team z którym spędzisz niezapomiane noce projektując grę oraz walcząc z snem z energetykiem w ręce.
 
@@ -130,7 +130,7 @@ Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wy
   ![Zdjęcie](/images/wyjazd.jpg)
   ![Zdjęcie](/images/wyjazd3.jpg)
 
-  Organizujemy przeróżne wyjazdy intergracyjne. Jednym z nich był 3-dniowy wyjazd do Poronina gdzie wszysycy mogli zaznać przepięknych górskich krajobrazów jak i szmpańsko się bawić na wieczornych imperzach
+  Organizujemy przeróżne wyjazdy intergracyjne. Jednym z nich był 3-dniowy wyjazd do Poronina gdzie wszysycy mogli zaznać przepięknych górskich krajobrazów jak i szmpańsko się bawić na wieczornych imperzach.
 
 # Zarząd
 
@@ -158,17 +158,17 @@ Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wy
 
   Działacz na rzecz rozwoju technicznego członów.
 
-- ## Anotoni Zieciak
+- ## Antoni Zięciak
 
   <img src="images/AntoniZi%C4%99ciak.jpg"  width="400" height="400">
 
-  Osoba odpowiedzilna przeróżne ankiety. Jest on naszym człowiekim wśród ludzi. Jeżeli masz jakiś problem czy zażalenie zwróć się do Antka.
+  Osoba odpowiedzilna za przeróżne ankiety. Jest on naszym człowiekim wśród ludzi. Jeżeli masz jakiś problem czy zażalenie zwróć się do Antka.
 
 - ## Tomasz Makowski
 
   <img src="images/TomaszMakowski.jpg"  width="400" height="400">
 
-  Prowadzony spotkania koła, także inicjator oraz organizator wyjadów intergracyjnych.
+  Prowadzący spotkania koła, także inicjator oraz organizator wyjadów intergracyjnych.
 
 - ## Wojciech Neuman
 
