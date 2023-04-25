@@ -63,11 +63,47 @@ Jest to świat inspirowany dziełami Tolkiena w którym smoki oraz napady orków
 
 Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wykorzystać przyczepność opon oraz nitro płynące w rurach auta. celem gracza jest pokonianie wybranej trasy w jak najkrótszym czasie.
 
+# Eventy
+
+- ## Hackathon
+
+  Całedobowe kodzenie gier to nie jest problem dla naszych członków. U nas możesz zebrać własny team z którym spędzisz niezapomiane noce projektując grę oraz walcząc z snem z energetykiem w ręce.
+
+- ## Code Along
+
+  Organizujemy własne noce programistyczne w których poznasz oraz będziesz rywalizowac z członaki naszego koła. przypomną Ci one o młodzieńczysz nocach przed kompem grająć w CS.
+  <br>
+
+- ## Warsztaty
+
+  ![Zdjęcie](/images/warsztaty.jpg)
+  ![Zdjęcie](/images/warsztaty2.jpg)
+  ![Zdjęcie](/images/warsztaty3.jpg)
+
+  Prowadzimy warsztaty z szerokiego zakresu tematów.
+
+  - Podstawy gita(który jest niezbędny przy pracy zespołowej)
+  - Głębsze poznanie silnika Unity
+  - Techniki Agile
+  - Wykorzystanie wzorców projektowych
+  - Modelowanie 3D
+  - Projektowenie grafik 2D
+  - Oraz inne poruszające życie Game Developera
+
+- ## Wyjazdy Integracyjne
+
+  ![Zdjęcie](/images/wyjazd2.jpg)
+  ![Zdjęcie](/images/wyjazd.jpg)
+  ![Zdjęcie](/images/wyjazd3.jpg)
+
+  Organizujemy przeróżne wyjazdy intergracyjne. Jednym z nich był 3-dniowy wyjazd do Poronina gdzie wszysycy mogli zaznać przepięknych górskich krajobrazów jak i szmpańsko się bawić na wieczornych imperzach.
+
 # SZUKAMY
 
 - ### Programistów
 
   Będziesz odpowiedzialny za implementowanie rozgrywki oraz fizyki w naszych grach. Chyba, że wolisz wykrywać kolizję, wyprowadzać fizykę od postaw i robić inne rzeczy związane z tworzeniem silnika gry, to też znajdziemy dla ciebie miejsce.
+  <br>
 
 - ### Grafików
 
@@ -98,80 +134,58 @@ Cofasz się do lat 80, gdzie jadąc Ford Ranger próbujesz w najpeszy sposób wy
 
 ## [Ankieta Rekrutacyjna](https://docs.google.com/forms/d/e/1FAIpQLSea84KKPaQeEUNiI3IWRyXT8eW7Ypyq_sDhoNr2_jZoYqg2kw/closedform)
 
-# Eventy
-
-- ## Hackathon
-
-  Całedobowe kodzenie gier to nie jest problem dla naszych członków. U nas możesz zebrać własny team z którym spędzisz niezapomiane noce projektując grę oraz walcząc z snem z energetykiem w ręce.
-
-- ## Code Along
-
-  Organizujemy własne noce programistyczne w których poznasz oraz będziesz rywalizowac z członaki naszego koła. przypomną Ci one o młodzieńczysz nocach przed kompem grająć w CS.
-
-- ## Warsztaty
-
-  ![Zdjęcie](/images/warsztaty.jpg)
-  ![Zdjęcie](/images/warsztaty2.jpg)
-  ![Zdjęcie](/images/warsztaty3.jpg)
-
-  Prowadzimy warsztaty z szerokiego zakresu tematów.
-
-  - Podstawy gita(który jest niezbędny przy pracy zespołowej)
-  - Głębsze poznanie silnika Unity
-  - Techniki Agile
-  - Wykorzystanie wzorców projektowych
-  - Modelowanie 3D
-  - Projektowenie grafik 2D
-  - Oraz inne poruszające życie Game Developera
-
-- ## Wyjazdy Integracyjne
-
-  ![Zdjęcie](/images/wyjazd2.jpg)
-  ![Zdjęcie](/images/wyjazd.jpg)
-  ![Zdjęcie](/images/wyjazd3.jpg)
-
-  Organizujemy przeróżne wyjazdy intergracyjne. Jednym z nich był 3-dniowy wyjazd do Poronina gdzie wszysycy mogli zaznać przepięknych górskich krajobrazów jak i szmpańsko się bawić na wieczornych imperzach.
-
 # Zarząd
 
-- ## Maciej Pieniążek
+## Maciej Pieniążek
 
-  <img src="images/MaciejPieniazek.jpg"  width="400" height="400">
+<img src="images/MaciejPieniazek.jpg"  width="400" height="400">
 
-  Gółwny przedstawiciel koła. Jego rolą jest spajanie i rozwijanie koła. Zajmuje się zbieranie nowych wpływów oraz zarządznie aktualnymi wydarzeniami w kole.
+Gółwny przedstawiciel koła. Jego rolą jest spajanie i rozwijanie koła. Zajmuje się zbieranie nowych wpływów oraz zarządznie aktualnymi wydarzeniami w kole.
 
-- ## Patryk Lesiak
+---
 
-  <img src="images/PatrykLesiak.jpeg"  width="400" height="400">
+## Patryk Lesiak
 
-  Guru IT. Zajmusie się aspektem technicznym koła. Administrator Discora, Chmur, itd. Na jego barkach leżą losy osbób zmagających się z problemami w Unity
+<img src="images/PatrykLesiak.jpeg"  width="400" height="400">
 
-- ## Adrian Markowski
+Guru IT. Zajmusie się aspektem technicznym koła. Administrator Discora, Chmur, itd. Na jego barkach leżą losy osbób zmagających się z problemami w Unity
 
-  <img src="images/AdrianMarkowski.jpeg"  width="400" height="400">
+---
 
-  Kordynator warsztatów, oraz code along. Także zarządca fanpagu facebooka.
+## Adrian Markowski
 
-- ## Jakub Ocytko
+<img src="images/AdrianMarkowski.jpeg"  width="400" height="400">
 
-  <img src="images/JakubOcytko.png"  width="400" height="450">
+Kordynator warsztatów, oraz code along. Także zarządca fanpagu facebooka.
 
-  Działacz na rzecz rozwoju technicznego członów.
+---
 
-- ## Antoni Zięciak
+## Jakub Ocytko
 
-  <img src="images/AntoniZi%C4%99ciak.jpg"  width="400" height="400">
+<img src="images/JakubOcytko.png"  width="400" height="450">
 
-  Osoba odpowiedzilna za przeróżne ankiety. Jest on naszym człowiekim wśród ludzi. Jeżeli masz jakiś problem czy zażalenie zwróć się do Antka.
+Działacz na rzecz rozwoju technicznego członów.
 
-- ## Tomasz Makowski
+---
 
-  <img src="images/TomaszMakowski.jpg"  width="400" height="400">
+## Antoni Zięciak
 
-  Prowadzący spotkania koła, także inicjator oraz organizator wyjadów intergracyjnych.
+<img src="images/AntoniZi%C4%99ciak.jpg"  width="400" height="400">
 
-- ## Wojciech Neuman
+Osoba odpowiedzilna za przeróżne ankiety. Jest on naszym człowiekim wśród ludzi. Jeżeli masz jakiś problem czy zażalenie zwróć się do Antka.
 
-  <img src="images/WojciechNeuman.jpeg"  width="400" height="400">
+---
 
-  Okno na świat koła. Zajmuje się promowanie i rozpowszechnieniem koła w social mediach.
+## Tomasz Makowski
+
+<img src="images/TomaszMakowski.jpg"  width="400" height="400">
+
+Prowadzący spotkania koła, także inicjator oraz organizator wyjadów intergracyjnych.
+
+---
+
+## Wojciech Neuman
+
+<img src="images/WojciechNeuman.jpeg"  width="400" height="400">
+
+Okno na świat koła. Zajmuje się promowanie i rozpowszechnieniem koła w social mediach.
