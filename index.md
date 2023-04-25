@@ -188,4 +188,4 @@ Prowadzący spotkania koła, także inicjator oraz organizator wyjadów intergra
 
 <img src="images/WojciechNeuman.jpeg"  width="400" height="400">
 
-Okno na świat koła. Zajmuje się promowanie i rozpowszechnieniem koła w social mediach.
+Okno na świat koła. Zajmuje się promowaniem i rozpowszechnieniem koła w social mediach.
