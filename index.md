@@ -52,7 +52,7 @@ Nasz zespół z pełnym zapałem projektuje swój własny silnk graficzny które
 ![Zdjęcie](/images/emperor1.jpg)
 ![Zdjęcie](/images/emperor2.jpg)
 
-Jest to świat inspirowany dziełami Tolkiena w którym smoki oraz napady orków to codzienność. Gracz wciela się w kolonizatora kótry musi rozbudować swoje imperium na nowych nieznanych ziemiach. Wykorzytuje do tego pobliskie zasoby jak drwno, cenne rudy oraz inne zasoby. Z pracy mieszkańców może wyprodukować przeróżne dobra zaczynając od pożywienia a kończąc na bronia i zbrojach przyodzewanych przez żołnierzy. Celem jest rozwinięcie gospodarki tak by każdy aspek produkcji sie zazębiał oraz wykorzystanie jej do sworzenia armi która podbije sąsiedne krainy.
+Jest to świat inspirowany dziełami Tolkiena w którym smoki oraz napady orków to codzienność. Gracz wciela się w kolonizatora kótry musi rozbudować swoje imperium na nowych nieznanych ziemiach. Wykorzytuje do tego pobliskie zasoby jak drwno, cenne rudy oraz inne bogactwa. Z pracy mieszkańców może wyprodukować przeróżne dobra zaczynając od pożywienia a kończąc na broniach i zbrojach przyodzewanych przez żołnierzy. Celem jest rozwinięcie gospodarki tak by każdy aspek produkcji sie zazębiał oraz wykorzystanie jej do sworzenia armi która podbije sąsiedne krainy.
 
 ---
 
